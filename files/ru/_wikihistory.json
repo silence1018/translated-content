@@ -10099,17 +10099,6 @@
       "Zhuravlik"
     ]
   },
-  "Web/Guide/AJAX/Getting_Started": {
-    "modified": "2019-03-24T00:01:49.926Z",
-    "contributors": [
-      "DanilaH",
-      "chrisdavidmills",
-      "Megapotz",
-      "Apparition",
-      "Square",
-      "Kwinto"
-    ]
-  },
   "Web/Guide/API": {
     "modified": "2019-09-11T09:35:03.457Z",
     "contributors": ["SphinxKnight", "BychekRU", "Sheppy"]
@@ -16799,6 +16788,17 @@
   "conflicting/Web/Guide": {
     "modified": "2019-03-24T00:00:53.915Z",
     "contributors": ["Dionys"]
+  },
+  "conflicting/Web/Guide/AJAX": {
+    "modified": "2019-03-24T00:01:49.926Z",
+    "contributors": [
+      "DanilaH",
+      "chrisdavidmills",
+      "Megapotz",
+      "Apparition",
+      "Square",
+      "Kwinto"
+    ]
   },
   "conflicting/Web/Guide/Mobile": {
     "modified": "2019-03-23T23:27:06.077Z",
