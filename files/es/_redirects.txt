@@ -5,10 +5,10 @@
 #
 # FROM-URL	TO-URL
 /es/docs/AJAX	/es/docs/Web/Guide/AJAX
-/es/docs/AJAX/Comunidad	/es/docs/Web/Guide/AJAX/Community
-/es/docs/AJAX/Primeros_Pasos	/es/docs/Web/Guide/AJAX/Getting_Started
-/es/docs/AJAX:Comunidad	/es/docs/Web/Guide/AJAX/Community
-/es/docs/AJAX:Primeros_Pasos	/es/docs/Web/Guide/AJAX/Getting_Started
+/es/docs/AJAX/Comunidad	/es/docs/conflicting/Web/Guide/AJAX
+/es/docs/AJAX/Primeros_Pasos	/es/docs/conflicting/Web/Guide/AJAX_21419c7dfa67c94789f037a33c4e4e3e
+/es/docs/AJAX:Comunidad	/es/docs/conflicting/Web/Guide/AJAX
+/es/docs/AJAX:Primeros_Pasos	/es/docs/conflicting/Web/Guide/AJAX_21419c7dfa67c94789f037a33c4e4e3e
 /es/docs/Accesibilidad	/es/docs/Web/Accessibility
 /es/docs/Accesibilidad/Comunidad	/es/docs/conflicting/Web/Accessibility
 /es/docs/Accesibilidad:Comunidad	/es/docs/conflicting/Web/Accessibility
@@ -1937,8 +1937,10 @@
 /es/docs/Web/Events/transitioncancel	/es/docs/Web/API/Element/transitioncancel_event
 /es/docs/Web/Events/transitionend	/es/docs/Web/API/Element/transitionend_event
 /es/docs/Web/Events/wheel	/es/docs/Web/API/Element/wheel_event
-/es/docs/Web/Guide/AJAX/Comunidad	/es/docs/Web/Guide/AJAX/Community
-/es/docs/Web/Guide/AJAX/Primeros_Pasos	/es/docs/Web/Guide/AJAX/Getting_Started
+/es/docs/Web/Guide/AJAX/Community	/es/docs/conflicting/Web/Guide/AJAX
+/es/docs/Web/Guide/AJAX/Comunidad	/es/docs/conflicting/Web/Guide/AJAX
+/es/docs/Web/Guide/AJAX/Getting_Started	/es/docs/conflicting/Web/Guide/AJAX_21419c7dfa67c94789f037a33c4e4e3e
+/es/docs/Web/Guide/AJAX/Primeros_Pasos	/es/docs/conflicting/Web/Guide/AJAX_21419c7dfa67c94789f037a33c4e4e3e
 /es/docs/Web/Guide/API/Vibration	/es/docs/Web/API/Vibration_API
 /es/docs/Web/Guide/API/WebRTC/Peer-to-peer_communications_with_WebRTC	/es/docs/conflicting/Web/API/WebRTC_API
 /es/docs/Web/Guide/CSS	/es/docs/Learn/CSS
